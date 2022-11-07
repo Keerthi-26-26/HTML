@@ -1,0 +1,22 @@
+HTML program for Homepage:
+PROGRAM:
+<html>
+<head>
+<title>
+home page
+</title>
+</head>
+<body>
+<pre>
+<font face="Times New Roman">
+BVRIT HYDERABAD College of Engineering for Women is the youngest college
+under the umbrella of Sri Vishnu Educational Society,
+Established in 2012, with the intention of enabling women engineers to reach greater
+heights, it has already acquired many
+accolades in academics, placements and technical competitions. With exceptional
+results of very first batch, BVRIT HYDERABAD
+is now one of the most sought after institute in Hyderabad for prospective engineering
+students.</font> </pre>
+<img src="bvrit.jpeg" width="350" height="350" align="R" alt="image">
+</body>
+</html>
