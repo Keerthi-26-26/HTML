@@ -1,0 +1,17 @@
+HTML program for inserting references in Menu.
+PROGRAM:
+< html>
+<head>
+<title>
+home page
+</title>
+</head>
+<body>
+<font color="voilet" size="5">MENU</font><br><br>
+<a href="C:\Users\sunny\home.html" target="4">Homepage</a><br><br><br>
+<a href="C:\Users\sunny\courses.html" target="4">Departments</a><br><br><br>
+<a href="C:\Users\sunny\registration.html" target="4">Registration
+Form</a><br><br><br>
+<a href="C:\Users\sunny\vision.html" target="4">Vision and Mission</a><br><br><br>
+</body>
+</html>
