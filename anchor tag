@@ -1,0 +1,12 @@
+Write a HTML program using ANCHOR TAG.
+PROGRAM:
+<html>
+<head>
+<title> hyper link</title>
+</head>
+<body>
+<a href="/home/oem/Desktop/20wh1a12a0/sample.html">click here</a>
+<img src="/home/oem/Pictures/BTS_logo_(2017).png"width="200" height="200"
+alt="wrong"</img>
+</body>
+</html>
