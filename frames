@@ -1,0 +1,20 @@
+HTML program using FRAMES.
+PROGRAM:
+<html>
+<head>
+<title> frameset
+</title>
+</head>
+<frameset rows="20%,10%,50%,20%" border="1">
+<frameset cols="20%,80%" border="1">
+<frame src="logo.html" id="1">
+<frame src="bvrit.html" id="2">
+</frameset>
+<frame src="scroll.html" id="scroll">
+<frameset cols="20%,80%" border="1">
+<frame src="menu.html" id="3">
+<frame src="empty.html" name="4">
+</frameset>
+<frame src="address.html" id="5">
+</frameset>
+</html>
