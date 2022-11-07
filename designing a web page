@@ -1,0 +1,16 @@
+Design a Webpage containing Header, Footer, Main page, images, references in menu using 
+frames.
+PROGRAM:
+<html>
+<head>
+<title>
+logo page
+</title>
+</head>
+<body>
+<center><big><big><b>BVRIT HYDERABAD COLLEGE OF ENGINEERING FOR
+WOMEN</b></big></big></center>
+<center>EAMCET CODE : BVRW | ACCREDITED BY NAAC WITH GRADE : A |
+ACCREDITED BY NBA FOR 3 YEAR<center>
+</body>
+</html>
