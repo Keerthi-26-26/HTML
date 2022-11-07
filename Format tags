@@ -1,0 +1,36 @@
+Write a HTML program on Format Tags.
+PROGRAM:
+
+<html>
+<head>
+<title>sample</title>
+</head>
+<body bgcolor="purple" text ="black" >
+<h1>heading 1</h1>
+<h2>heading 2</h2>
+<h3>heading 3</h3>
+<h4>heading 4</h4>
+<b>welcome</b>
+<br>hello<br>
+<i>hi</i><br>
+<u>web</u><br>
+web<strong>programming</strong><br>
+<strike>coding</strike><br>
+ax<sup>3</sup><br>
+h<sub>2</sub>o<br>
+keerthi<sub>bvrit</sub><br>
+<pre>keerthi kondapur, aditya imperial heights
+telangana</pre>
+<big>bvrit<br>
+<tt>thisisyourname</tt><br>
+thisisyourname<br>
+keerthi<br>
+<bdo dir="rtl">keerthi</bdo><br>
+<mark>good</mark><br>
+<font size=28 style="times roman" color="009900">programming</font><br>
+<em>college</em><br>
+<small>bts</small><br>
+<del>bvrit</del><br>
+<ins>sri</ins><br>
+</body>
+</html>
