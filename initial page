@@ -1,0 +1,15 @@
+HTML program for Initial page.
+PROGRAM:
+<html>
+<head>
+<title>
+empty
+</title>
+</head>
+<body>
+<img src="C:\Users\sunny\Bvrith_image.jfif" width="550" height="200" align="C"
+alt="BVRITH Image">
+<img src="C:\Users\sunny\BVRITH-NaacBannerImage.jpg" width="350"
+height="200" align="R" alt="NAAC">
+</body>
+</html>
