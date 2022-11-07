@@ -1,0 +1,13 @@
+HTML program for inserting image in Webpage.
+PROGRAM:
+<html>
+<head>
+<title> logo
+page
+</title>
+</head>
+<body>
+<img src="C:\Users\sunny\logoimg.jpg" width="120" height="125" align="L" alt="logo">
+</img>
+</body>
+</html>
