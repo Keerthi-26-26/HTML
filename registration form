@@ -1,0 +1,37 @@
+Write a HTML program to design a Registration Form using Forms.
+PROGRAM:
+< html>
+<head>
+<title>
+FORMS
+</title>
+</head>
+<body>
+<Big><center><U>REGISTRATION FORM</U></center></BIG>
+<label>First Name</label><br>
+<input type="text"></input><br>
+<label>Last Name</label><br>
+<input type="text"></input><br>
+<label>Mobile no</label><br>
+<input type="number"><br>
+<label>DOB</label><br>
+<input type="date"><br>
+<label>Gender:</label><br>
+<input type="Radio" name="gender" value="Radio">Female</input>
+<input type="Radio" name="gender" value="Radio">Male</input><br>
+<label>Address:</label><br>
+<textarea rows="5" cols="20"></textarea><br>
+<label>Subjects</label><br>
+<input type="checkbox" value="checkbox">CPP</input><br>
+<input type="checkbox" value="checkbox">JAVA</input><br>
+<input type="checkbox" value="checkbox">PYTHON</input><br>
+<label>Year</label><br>
+<select>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+</select>
+</form>
+</body>
+</html>
