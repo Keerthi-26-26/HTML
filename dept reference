@@ -1,0 +1,18 @@
+HTML program for DEPARTMENTS reference:
+<html>
+<head>
+<title>
+home page
+</title>
+</head>
+<body>
+<ul type="circle">
+<li>BASIC SCIENCES AND HUMANITIES</li>
+<li> INFORMATION TECHNOLOGY </li>
+<li> COMPUTER SCIENCE AND ENGINEERING </li>
+<li> ELECTRONICS AND COMMUNICATION ENGINEERING</LI>
+<li> ARTIFICIAL ENGINEERING AND MACHINE LEARNING</LI>
+<li>ELECTRICAL AND ELECTRONICS ENGINEERING</li>
+</ul>
+</body>
+</html>
