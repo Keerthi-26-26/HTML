@@ -1,0 +1,31 @@
+HTML program for VISION MISSION reference:
+PROGRAM:
+<html>
+<head>
+<title>
+home page
+</title>
+</head>
+<body>
+<pre>
+</body>
+<H3>
+<font color="gray" size=20>VISION</font>
+To emerge as the best among the institutes of technology and research in the country
+dedicated to the cause of promoting quality technical education.
+</H3>
+</pre>
+<pre>
+<H3>
+<font color="purple" size=20>MISSION</font>
+At BVRITH, we strive to
+<UL TYPE="circle">
+<li>Achieve academic excellence through innovative learning practices</li>
+<li>Enhance intellectual ability and technical competency for a successful career</li>
+<li>Encourage research and innovation</li>
+<li>Nurture students towards holistic development with emphasis on leadership skills.
+life skills and human values</li>
+</UL>
+</H3>
+</pre>
+</html>
