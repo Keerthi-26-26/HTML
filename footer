@@ -1,0 +1,20 @@
+HTML program for FOOTER.
+PROGRAM:
+<html>
+<head>
+<title>
+ADDRESS page
+</title>
+</head>
+<body>
+<CENTER>
+<BIG><b>ADDRESS</b></BIG>
+<pre>
+<H3><ADDRESS</H3>
+Plot No. 8-5/4, Rajiv Gandhi Nagar Colony, Nizampet Rd, Bachupally,
+Hyderabad-500090
+Phone +91 40 4241 7773
+Email info@bvrithyderabad.edu.in principal@bvrithyderabad.edu.in </pre>
+</CENTER>
+</body> 
+</html>
