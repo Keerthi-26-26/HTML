@@ -1,0 +1,11 @@
+HTML program for inserting a scrolling text:
+PROGRAM:
+<html>
+<head>
+<title>
+scroll </title>
+</head>
+<body>
+<p><marquee direction="right">Holidays are declared from 3rd of october to 9th of october</p></marquee>
+</body>
+</html>
