@@ -1,0 +1,39 @@
+Write a HTML program to create a TABLE.
+PROGRAM:
+<html>
+<head>
+<title>tables</title>
+</head>
+<body>
+<table border="4" cellspacing="2" cellpadding="4">
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<td rowspan="3">B<br>R<br>E<br>A<br>K</td>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>WP</td>
+<td>AI</td>
+<td>NS</td>
+<td>SE</td>
+<td>CN</td>
+<td>ML</td>
+</tr>
+<tr>
+<td colspan="3">WP LAB</td>
+<td>WP</td>
+<td>AI</td>
+<td>SE</td>
+</tr>
+<tr>
+<td>NS</td>
+<td>SE</td>
+<td>AI</td>
+<td Colspan="3"><center>SE LAB</center></td>
+</tr>
+</table> </body>
+</html>
