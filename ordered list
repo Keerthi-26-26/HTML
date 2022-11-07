@@ -1,0 +1,22 @@
+Write a HTML Program on LISTS.
+PROGRAM:
+Ordered list:
+<html>
+<head>
+<title>ordered list</title>
+<body><center>
+<ol>
+<ol>
+<dt>what is your name?</dt>
+<dd>keerthi</dd>
+<li>red</li>
+<li>green</li>
+<li>blue</li>
+<li>purple</li>
+<li>black</li>
+<li>violet</li>
+<li>lavander</li>
+</center>
+</body>
+</head>
+</html>
