@@ -1,0 +1,16 @@
+AIM: Write a program to find factorial of a number with Recursion.
+PROGRAM:
+<html>
+<head></head>
+<script>
+function factorial(n)
+{
+if(n==1)
+return 1;
+return n*factorial(n-1);
+}
+var n=prompt("Enter a number");
+var res=factorial(n);
+document.write("factorial of "+n+" = "+res);
+</script>
+</html>
