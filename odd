@@ -1,0 +1,19 @@
+AIM: Create a script that prompts user for a number and then counts from 1 to that number displaying
+only odd numbers.
+PROGRAM:
+<html>
+<body>
+<script>
+var n = prompt("Enter a value");
+var i;
+document.write("Listing odd numbers in the range 1 to "+n+":<br>");
+for(i=1;i<=n;i++)
+{
+if(i%2!=0)
+{
+document.write(i+" ");
+}
+}
+</script>
+</body>
+</html>
