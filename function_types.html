@@ -1,0 +1,42 @@
+<html>
+<body>
+<script>
+function fun1()
+{
+document.write("NO ARG NO RETURN TYPE ");
+}
+function fun2()
+{
+var a=100;
+document.write("<br>NO ARG WITH RETURN TYPE ");
+return ++a;
+}
+function fun3(a,b)
+{
+document.write("<br>WITH ARG NO RETURN TYPE ");
+document.write("<br>Sum = "+(a+b));
+}
+function fun4(a,b)
+{
+document.write("<br>WITH ARG WITH RETURN TYPE ");
+return a+b;
+}
+fun1();
+var result=fun2();
+document.write("<br>Return value of fun2 "+result);
+fun3(100,7);
+var res=fun4(3,4);
+document.write("<br>Return value of fun4 "+res);
+function factorial(n)
+{
+if(n==1)
+return 1;
+else
+return n*factorial(n-1);
+}
+var f=prompt("Enter a number");
+res=factorial(f);
+document.write("<br>Factorial of "+f+" is = "+res);
+</script>
+</body>
+</html>
