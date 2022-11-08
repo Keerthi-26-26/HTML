@@ -1,0 +1,19 @@
+AIM: Write a program to find factorial of a number without Recursion.
+PROGRAM:
+<html>
+<head></head>
+<script>
+function factorial(n)
+{
+var i,prod=1;
+for(i=1;i<=n;i++)
+{
+prod=prod*i;
+}
+return prod;
+}
+var n=prompt("Enter a number");
+var res=factorial(n);
+document.write("factorial of "+n+" = "+res);
+</script>
+</html>
