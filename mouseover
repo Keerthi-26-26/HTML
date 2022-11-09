@@ -1,0 +1,17 @@
+AIM: Write a Program to illustrate Mouse Event Handling
+PROGRAM:
+iii)mouseover
+<html>
+<head>MOUSE OVER EVENT</head>
+<body>
+<script>
+function MouseOverEvent()
+{
+alert("MouseOver this text");
+}
+</script>
+<form>
+<p onmouseover="MouseOverEvent()">WEB PROGRAMMING</p>
+</form>
+</body>
+</html>
