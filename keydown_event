@@ -1,0 +1,14 @@
+AIM: Write a program using keydownevent.
+PROGRAM:
+<html>
+<head>KEY DOWN</head>
+<script>
+function keyDown()
+{
+alert("KEY PRESSED");
+}
+</script>
+<form>
+<input type="text" value="Type here" onkeydown="keyDown()">
+</form>
+</html>
